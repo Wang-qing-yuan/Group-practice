@@ -8,4 +8,7 @@ package www;
  * @Version 1.0
  **/
 public class www {
+    public static void main(String[] args) {
+        System.out.println("test");
+    }
 }
